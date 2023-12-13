@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotes  Shayari</string>
+    <string name="QuotesCatagory">Quotes Catagory</string>
+    <string name="Favourite">Favourite</string>
+    <string name="AllQuotes">All Quotes</string>
+    <string name="Shayari">Shayari</string>
+    <string name="Quotes">Quotes</string>
+</resources>
